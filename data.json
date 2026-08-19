@@ -1,0 +1,424 @@
+{
+  "year": 2026,
+  "categories": [
+    "Rent",
+    "EMI",
+    "Saving",
+    "Other",
+    "Veggies",
+    "Grocery",
+    "Petrol",
+    "Dine Out",
+    "Travel",
+    "Medicine",
+    "Shopping"
+  ],
+  "transactions": [
+    {
+      "month": "January",
+      "category": "Rent",
+      "amount": 12500.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "EMI",
+      "amount": 5800.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Saving",
+      "amount": 5000.0,
+      "note": "FD",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Saving",
+      "amount": 1200.0,
+      "note": "Gold",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Saving",
+      "amount": 37000.0,
+      "note": "Cash",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Other",
+      "amount": 855.0,
+      "note": "Gas",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Veggies",
+      "amount": 500.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Veggies",
+      "amount": 600.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Grocery",
+      "amount": 380.0,
+      "note": "Flour",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Grocery",
+      "amount": 250.0,
+      "note": "Oil",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Petrol",
+      "amount": 900.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Dine Out",
+      "amount": 190.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Travel",
+      "amount": 5800.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Grocery",
+      "amount": 1568.0,
+      "note": "Milk",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Veggies",
+      "amount": 217.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Medicine",
+      "amount": 475.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Grocery",
+      "amount": 315.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Shopping",
+      "amount": 270.0,
+      "note": "Lap Table",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Grocery",
+      "amount": 525.0,
+      "note": "New Year Shopping",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Other",
+      "amount": 855.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "January",
+      "category": "Dine Out",
+      "amount": 170.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 1,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Other",
+      "amount": 300.0,
+      "note": "Gas Repair",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Grocery",
+      "amount": 395.0,
+      "note": "Aataa",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Grocery",
+      "amount": 2000.0,
+      "note": "Milkbasket Recharge",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Other",
+      "amount": 362.0,
+      "note": "Fridge Stand",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Grocery",
+      "amount": 261.0,
+      "note": "Oats and Dates",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Saving",
+      "amount": 5000.0,
+      "note": "FD",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "EMI",
+      "amount": 5800.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Grocery",
+      "amount": 1070.0,
+      "note": "Amazon Pay Later",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Rent",
+      "amount": 12000.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Grocery",
+      "amount": 55.0,
+      "note": "Milk",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Medicine",
+      "amount": 193.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Medicine",
+      "amount": 540.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Petrol",
+      "amount": 300.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Saving",
+      "amount": 40000.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Veggies",
+      "amount": 600.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Dine Out",
+      "amount": 120.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Grocery",
+      "amount": 190.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Shopping",
+      "amount": 435.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Grocery",
+      "amount": 1625.0,
+      "note": "DMart",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Saving",
+      "amount": 5000.0,
+      "note": "Gold",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Grocery",
+      "amount": 375.0,
+      "note": "Puja ka saman",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Petrol",
+      "amount": 300.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Travel",
+      "amount": 275.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    },
+    {
+      "month": "February",
+      "category": "Dine Out",
+      "amount": 270.0,
+      "note": "",
+      "date": null,
+      "monthNumber": 2,
+      "year": 2026
+    }
+  ],
+  "salary": {}
+}
